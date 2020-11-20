@@ -1,6 +1,6 @@
 # E_Commerce_UI
 
-<img src ="./assets/images/intro.jif" width="200" height="400">
+<img src ="./assets/images/intro.gif" >
 
 ## Getting Started
 
