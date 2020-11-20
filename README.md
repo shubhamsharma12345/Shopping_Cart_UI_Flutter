@@ -2,6 +2,8 @@
 
 <img src ="./assets/images/intro.gif" >
 
+<img src="./assets/images/E_Commerce_UI1.jpg" width="300" height="500">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
