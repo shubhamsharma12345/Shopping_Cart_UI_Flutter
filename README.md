@@ -1,6 +1,6 @@
 # E_Commerce_UI
 
-A new Flutter project.
+<img src ="./assets/images/intro.jif" width="200" height="400">
 
 ## Getting Started
 
